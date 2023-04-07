@@ -1,0 +1,167 @@
+body{
+    font: 15px/1.5 Arial, sans-serif;
+    margin:00px;
+    background-color:#999999;
+    width: 850px;
+    
+}
+
+header{
+    color:#f7f7fa;
+    padding-top:20px;
+    min-height:60px;
+    width: 850px;
+}
+
+section{
+  margin-left: 100px;
+}
+
+.tieude{
+  color: #ff0000;
+}
+
+.thanhchon{
+  position: relative;
+  width: 1070px;
+  height: 380px;
+  list-style: none;
+  margin-top: -40px;
+}
+
+
+
+.thanhchon2{
+  position: absolute; 
+  bottom: 0; 
+  left: 0.5em;
+}
+
+.thanhchon1{
+  list-style: none;
+  display: inline-flex;
+  margin-left: 104px;
+}
+
+.thanhcuoi{
+  position: relative;
+  width: 127%; 
+  height: 240px;
+}
+
+.thanhcuoi2{
+  position: absolute;
+  bottom: 0; 
+  width: 100%;
+  margin-left: 30px;
+}
+
+.b{
+    width: 90%;
+    margin-left: 70px;
+    
+}
+.c{
+    color: rgb(232, 13, 13);
+}
+
+.button { 
+    border: none;  
+    padding: 16px 32px;  
+    text-align: center;  
+    text-decoration: none;  
+    display: inline;  
+    font-size: 16px;  
+    margin: 4px 2px;  
+    -webkit-transition-duration: 0.4s; /* Safari */  
+    transition-duration: 0.4s;  
+    cursor: pointer;  
+    border-radius: 4px;
+}
+    
+
+header.thanhchon a{
+    font-weight:0;
+}
+
+header a{
+    color: rgb(254, 252, 251);
+    text-decoration:solid;
+    text-transform:uppercase; 
+    font-size: 17px;
+}
+
+h1 {
+    color: #555555;
+    text-transform: uppercase;
+    letter-spacing: 1vw;
+    line-height: 1.2;
+    font-size: 3vw;
+    text-align: center;
+}
+
+.semi-transparent-button1 { 
+  display: flex; 
+  box-sizing: border-box; 
+  margin: 0 auto; 
+  padding: 8px; 
+  width: 80%; 
+  max-width: 200px; 
+  background: #333333; 
+  background: #333333; 
+  border-radius: 8px; 
+  color: #f9f8f8; 
+  text-align: center; 
+  text-decoration: none; 
+  letter-spacing: 1px; 
+  transition: all 0.3s ease-out; 
+  margin-top: -110px;
+}
+
+.semi-transparent-button1:hover,
+.semi-transparent-button1:focus, 
+.semi-transparent-button1:active { 
+    background: #fff; 
+    color: #333333; 
+    transition: all 0.5s ease-in; 
+}
+
+.semi-transparent-button2 { 
+  display: flex; 
+  box-sizing: border-box; 
+  margin: 0 auto; 
+  padding: 9px; 
+  width: 9%; 
+  max-width: 200px; 
+  background: #333333; 
+  background: #333333; 
+  border-radius: 8px; 
+  color: #f9f8f8; 
+}
+
+.semi-transparent-button2:hover,
+.semi-transparent-button2:focus, 
+.semi-transparent-button2:active { 
+    background: #fff; 
+    color: #333333; 
+    transition: all 0.5s ease-in; 
+}
+
+#pubgmobile{
+  margin-left: 150px;
+}
+
+
+
+.trangcuoi2{
+  width: 300px;
+  margin-left: 700px;  
+}
+
+.fix{
+   width: 70%;
+}
+
+footer{
+  width: 850px;
+}
